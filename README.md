@@ -15,7 +15,7 @@ Certifique-se de que você tem o seguinte instalado:
 ### 1. Clonar o Repositório
 
 ```bash
-git clone https://github.com/seu-usuario/owasp-dependency-check-example.git
+git clone https://github.com/viniciusbgs/owasp-dependency-check-example.git
 cd owasp-dependency-check-example
 ```
 
