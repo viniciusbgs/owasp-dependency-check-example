@@ -55,7 +55,7 @@ Os relatórios serão gerados no diretório dependency-check-report/.
 
             <artifactId>dependency-check-maven</artifactId>
 
-            <version>8.4.0</version>
+            <version>11.1.0</version>
 
             <executions>
 
